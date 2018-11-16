@@ -66,6 +66,7 @@ Algorithms
  * ✓ __x16r__ (Ravencoin [RVN])
  * ✓ __x16s__ (Pigeoncoin [PGN])
  * ✓ __x17__ (Verge [XVG])
+ * ✓ __x18__ (Minato [MNT])
  * ✓ __yescrypt__ (GlobalBoostY [BSTY], Unitus [UIS], MyriadCoin [MYR])
  * ✓ __zr5__ (Ziftrcoin [ZRC])
 
