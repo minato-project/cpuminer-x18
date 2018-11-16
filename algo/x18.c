@@ -144,7 +144,7 @@ int scanhash_x18(int thr_id, struct work *work, uint32_t max_nonce, uint64_t *ha
 
 	do {
 		be32enc(&endiandata[19], nonce);
-		x11hash(hash, endiandata);
+		x18hash(hash, endiandata);
 
 		if (hash[7] <= Htarg && fulltest(hash, ptarget)) {
 			work_set_target_ratio(work, hash);
